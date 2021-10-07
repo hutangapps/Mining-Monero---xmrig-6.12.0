@@ -5,3 +5,5 @@ Mining XMR Monero dengan PC
 Aplikasi ini akan sangat bermanfaat. Terima Kasih!
 
 Nice application !
+
+Wah keren
